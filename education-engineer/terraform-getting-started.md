@@ -352,7 +352,7 @@ Destroy complete! Resources: 2 destroyed.
 ```
 
 ## Next Steps
-In this tutorial you installed Terraform, created a configuration file, and used it to create and destroy infrastructure. Using Terraform to define your infrastructure as code lets you to manage it all in one centralized configuration file and allows you to perform consistent and repeatable infrastructure deployments. 
+In this tutorial you installed Terraform, created a configuration file, and used it to create and destroy infrastructure. Using Terraform to define your infrastructure as code lets you manage it all in one centralized configuration file and allows you to perform consistent and repeatable infrastructure deployments. 
 
 This configuration file can be committed to a version control system (VCS) like Github to be versioned, audited, and collaborated on with other people.
 
